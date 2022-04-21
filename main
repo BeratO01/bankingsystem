@@ -1,0 +1,9 @@
+package com.berat;
+
+public class Main {
+
+    public static void main(String[] args) {
+	Account lol= new Account("Bankuser6","7291823");
+    lol.showMenu();
+    }
+}
